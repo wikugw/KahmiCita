@@ -4154,8 +4154,8 @@ fieldset:disabled .btn {
 .btn-check:checked + .btn-outline-secondary,
 .btn-check:active + .btn-outline-secondary, .btn-outline-secondary:active, .btn-outline-secondary.active, .btn-outline-secondary.dropdown-toggle.show {
   color: #000;
-  background-color: #6266ea;
-  border-color: #6266ea;
+  background-color: #198754;
+  border-color: #198754;
 }
 
 /* line 105, src/assets/scss/mixins/_buttons.scss */
@@ -4758,7 +4758,7 @@ fieldset:disabled .btn {
 .dropdown-item.active, .dropdown-item:active {
   color: #fff;
   text-decoration: none;
-  background-color: #4232c2;
+  background-color: #198754;
 }
 
 /* line 165, src/assets/scss/_dropdown.scss */
