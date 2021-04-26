@@ -4068,8 +4068,8 @@ fieldset:disabled .btn {
 
 /* line 65, src/assets/scss/_buttons.scss */
 .btn-outline-primary {
-  color: #D3D3D3;
-  border-color: #D3D3D3;
+  color: #184d47;
+  border-color: #184d47;
 }
 
 .btn-outline-transparent {
@@ -4080,14 +4080,14 @@ fieldset:disabled .btn {
 /* line 85, src/assets/scss/mixins/_buttons.scss */
 .btn-outline-primary:hover {
   color: #f6f9fe;
-  background-color: #D3D3D3;
-  border-color: #D3D3D3;
+  background-color: #184d47;
+  border-color: #184d47;
 }
 
 .btn-outline-transparent:hover {
   color: #f6f9fe !important;
-  background-color: #D3D3D3 !important;
-  border-color: #D3D3D3 !important;
+  background-color: #184d47 !important;
+  border-color: #184d47 !important;
 }
 
 /* line 91, src/assets/scss/mixins/_buttons.scss */
@@ -4100,8 +4100,8 @@ fieldset:disabled .btn {
 .btn-check:checked + .btn-outline-primary,
 .btn-check:active + .btn-outline-primary, .btn-outline-primary:active, .btn-outline-primary.active, .btn-outline-primary.dropdown-toggle.show {
   color: #f6f9fe;
-  background-color: #D3D3D3;
-  border-color: #D3D3D3;
+  background-color: #184d47;
+  border-color: #184d47;
 }
 
 /* line 105, src/assets/scss/mixins/_buttons.scss */
@@ -4114,8 +4114,8 @@ fieldset:disabled .btn {
 .btn-check:checked + .btn-outline-transparent,
 .btn-check:active + .btn-outline-transparent, .btn-outline-transparent:active, .btn-outline-transparent.active, .btn-outline-transparent.dropdown-toggle.show {
   color: #f6f9fe !important;
-  background-color: #D3D3D3 !important;
-  border-color: #D3D3D3 !important;
+  background-color: #184d47 !important;
+  border-color: #184d47 !important;
 }
 
 /* line 105, src/assets/scss/mixins/_buttons.scss */

@@ -34,13 +34,21 @@ p, a {font-weight: 400;}
   font-family: 'Open Sans', sans-serif !important;
   font-weight: 600;
 }
-.typo-space-line::after,
-.typo-space-line-center::after {
+.typo-space-line::after {
   content: "";
   width: 150px;
   display:block;
   position: absolute;
   border-bottom:  5px solid #2E8B57;
+  padding-top: .5em;
+}
+
+.typo-space-line-center::after {
+  content: "";
+  width: 150px;
+  display:block;
+  position: absolute;
+  border-bottom:  5px solid #fff;
   padding-top: .5em;
 }
 .typo-space-line-center::after {
@@ -125,7 +133,7 @@ p, a {font-weight: 400;}
 }
 /* About */
 #work_banner {
-  background-image: url('./../img/banner-bg-02.jpg');
+  background-image: url('./../img/kahmicita-banner.jpg');
   background-position: center center; background-size: cover;
   height: 100%;
   width: 100%;
