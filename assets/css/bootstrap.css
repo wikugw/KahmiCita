@@ -2593,6 +2593,10 @@ progress {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
   }
+
+  .btn-outline-transparent{
+    width: 100% !important;
+  }
 }
 
 @media (max-width: 1399.98px) {
@@ -5369,6 +5373,10 @@ fieldset:disabled .btn {
   /* line 181, src/assets/scss/_navbar.scss */
   .navbar-expand-xl .navbar-toggler {
     display: none;
+  }
+
+  .w-48{
+    width: 48%;
   }
 }
 
