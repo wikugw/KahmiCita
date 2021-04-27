@@ -43,6 +43,19 @@ p, a {font-weight: 400;}
   padding-top: .5em;
 }
 
+.typo-space-line-center-2::after {
+  content: "";
+  width: 150px;
+  display:block;
+  position: absolute;
+  border-bottom:  5px solid #2E8B57;
+  padding-top: .5em;
+}
+.typo-space-line-center-2::after {
+  left: 50%;
+  margin-left: -75px;
+}
+
 .typo-space-line-center::after {
   content: "";
   width: 150px;
